@@ -10,5 +10,6 @@ public class Main {
 
         payment = service.calculate(1_000_000, 9.99, 36);
         System.out.println(payment);
+
     }
 }
